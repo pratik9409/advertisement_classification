@@ -1,5 +1,7 @@
 # Advertisement Classification
 
+![advert](https://user-images.githubusercontent.com/67755812/204614265-deda81a7-137b-479b-9be5-705b06197fb0.gif)
+
 
 In this project we will be working on text dataset which holds transcriptions for video of different ads. We preprocess the data into a more usable format and train our Deep Learning LSTM model. This model is based on Neural Net-Architecture and provides very high performance on sequence based datsets as it has a feedback structure helping the model remembe sequence of data input and the changes that are happening. Then we create a django-project which becomes our base website that will be hosted on google cloud.
 
