@@ -14,7 +14,7 @@ def handler(request):
         print(fina)
     else:
         result = [None]
-        fina = 'error'
+        fina = 'nothing'
     return render(request, "home.html", {'response': fina})
 
 
